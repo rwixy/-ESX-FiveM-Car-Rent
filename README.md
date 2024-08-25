@@ -1,5 +1,5 @@
-# -ESX-FiveM-Cardealer
-a simple ESX Cardealer Script
+# -ESX-FiveM-Rent Script
+a simple ESX Car Rent Script
 
 config changeable
 
